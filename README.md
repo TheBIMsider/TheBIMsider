@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Carl aka The BIMsider</h1>
+<h1 align="center">Hi 👋, I'm Carl aka the BIMsider</h1>
 <h3 align="center">I'm an old dog trying to learn some new coding tricks</h3>
 
 - 🌱 I’m currently learning **JavaScript, CSS, HTML, C#, Python**
