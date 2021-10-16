@@ -18,3 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thebimsider&show_icons=true&locale=en&layout=compact" alt="thebimsider" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thebimsider&show_icons=true&locale=en" alt="thebimsider" /></p>
+
+<p>Also thanks to rahuldkjain.github.io for his cool profile generater that did this! /></p>
