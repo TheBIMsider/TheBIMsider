@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carl aka The BIMsider</h1>
 <h3 align="center">I'm an old dog trying to learn some new coding tricks</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thebimsider&label=Profile%20views&color=0e75b6&style=flat" alt="thebimsider" /> </p>
-
-<p align="left"> <a href="https://twitter.com/thebimsider" target="blank"><img src="https://img.shields.io/twitter/follow/thebimsider?logo=twitter&style=for-the-badge" alt="thebimsider" /></a> </p>
-
-- 🌱 I’m currently learning **lots (JavaScript, CSS, HTML, C#, Python)**
+- 🌱 I’m currently learning **JavaScript, CSS, HTML, C#, Python**
 
 - 📝 I regularly write articles on [https://thebimsider.com/](https://thebimsider.com/)
 
