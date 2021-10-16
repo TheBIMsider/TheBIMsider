@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript, CSS, HTML, C#, Python**
 
-- 📝 I regularly write articles on [The BIMsider Blog](https://thebimsider.com/)
+- 📝 I regularly write articles on [The BIMsider](https://thebimsider.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
