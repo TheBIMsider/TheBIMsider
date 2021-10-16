@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thebimsider&show_icons=true&locale=en" alt="thebimsider" /></p>
 
-<p>Also thanks to [rahuldkjain.github.io](rahuldkjain.github.io) for his cool profile generater that did this! /></p>
+<p>Also thanks to [Rahul Jain](https://github.com/rahuldkjain/github-profile-readme-generator) for his cool profile generater that did this! /></p>
