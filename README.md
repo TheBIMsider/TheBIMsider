@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [The BIMsider](https://thebimsider.com/)
 
-- 🎙 I regularly help with these Podcast [BIMThoughs](http://bimthoughts.com/), [The BILT Academy Podcast](https://biltacademypodcast.buzzsprout.com/), [The Simply Comp;ex Podcast](https://www.simplycomplex.org/podcast)
+- 🎙 I regularly help with these Podcasts [BIMThoughs](http://bimthoughts.com/), [The BILT Academy Podcast](https://biltacademypodcast.buzzsprout.com/), [The Simply Comp;ex Podcast](https://www.simplycomplex.org/podcast)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
