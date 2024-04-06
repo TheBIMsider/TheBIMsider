@@ -15,14 +15,8 @@
 <a href="https://www.youtube.com/c/thebimsider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thebimsider" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Find all the Links 👇</h3>
-<p align="left">
-<a href="https://bio.link/thebimsider" target="blank"><strong style="font-size: 20 px;">HERE</strong></a>
-</p>
-
 ### Find all the Links 👇
 [**HERE**](https://bio.link/thebimsider)
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thebimsider&show_icons=true&locale=en&layout=compact" alt="thebimsider" /></p>
 
