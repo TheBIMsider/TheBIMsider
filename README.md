@@ -17,8 +17,12 @@
 
 <h3 align="left">Find all the Links 👇</h3>
 <p align="left">
-<a href="https://bio.link/thebimsider" target="blank" style="font-size: 40 px; font-weight: bold;">HERE</a>
+<a href="https://bio.link/thebimsider" target="blank"><strong style="font-size: 20 px;">HERE</strong></a>
 </p>
+
+### Find all the Links 👇
+[**HERE**](https://bio.link/thebimsider)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thebimsider&show_icons=true&locale=en&layout=compact" alt="thebimsider" /></p>
 
