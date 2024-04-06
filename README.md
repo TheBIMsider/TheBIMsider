@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [The BIMsider](https://thebimsider.com/)
 
-- 🎙 I regularly help with these Podcasts [Wrenches Gadegts & Hacks](https://bio.link/wghfeed) [BIMThoughs]([https://www.youtube.com/channel/UCluEu87j8_lvtI5LSi_1VBg), [The BILT Academy Podcast](https://biltacademypodcast.buzzsprout.com/), [The Simply Complex Podcast](https://www.simplycomplex.org/podcast)
+- 🎙 I regularly help with these Podcasts [Wrenches Gadegts & Hacks](https://bio.link/wghfeed), [BIMThoughs]([https://www.youtube.com/channel/UCluEu87j8_lvtI5LSi_1VBg), [The BILT Academy Podcast](https://biltacademypodcast.buzzsprout.com/), [The Simply Complex Podcast](https://www.simplycomplex.org/podcast)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
