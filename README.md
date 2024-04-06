@@ -17,7 +17,7 @@
 
 <h3 align="left">Find all the Links 👇</h3>
 <p align="left">
-<a href="https://bio.link/thebimsider" target="blank">**HERE**</a>
+<a href="https://bio.link/thebimsider" target="blank"><strong style="font-size: 20px;">HERE</strong></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thebimsider&show_icons=true&locale=en&layout=compact" alt="thebimsider" /></p>
