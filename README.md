@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Carl aka the BIMsider</h1>
 <h3 align="center">I'm an old dog trying to learn some new coding tricks</h3>
 
+- 🏢 Technical Solutions Lead at Newforma, BIM Crusader, Coding & No-Code Novice, AI Curious, Blogger, Speaker, Podcaster, Autodesk Expert Elite, 25+ years in AECO
+
 - 🌱 I’m currently learning **JavaScript, CSS, HTML, C#, Python**
 
 - 📝 I regularly write articles on [The BIMsider](https://thebimsider.com/)
