@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/thebimsider" target="blank"><img align="center" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEzLjU5NTggMTAuNzk3N0wyMC43MjM5IDJoLTEuNjg5NUwxMi44NDI1IDkuNDQ3NEw4LjE5MjU5IDJIMnY0LjMzMTNMOC44ODA5NSAxMy4yNzQ5TDIgMjJoMS42ODk1TDExLjI5NDYgMTQuMDQ4MkwxNS44NjQyIDIySDIyVjE3LjY2ODdMMTMuNTk1OCAxMC43OTc3Wk00LjUxMzc4IDMuOTczMDFINi45NTQ0OUwxOS41MzA0IDIwLjA4ODVIMTcuMDg5N0w0LjUxMzc4IDMuOTczMDFaIiBmaWxsPSIjMUIxRjIzIi8+Cjwvc3ZnPgo=" alt="thebimsider" height="30" width="40" /></a>
+<a href="https://x.com/theBIMsider" target="blank"><img align="center" src="https://img.shields.io/badge/X-1DA1F2?style=flat&logo=x&logoColor=white" alt="theBIMsider" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cstorms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cstorms" height="30" width="40" /></a>
 <a href="https://instagram.com/thebimsider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thebimsider" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/thebimsider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thebimsider" height="30" width="40" /></a>
