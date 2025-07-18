@@ -17,7 +17,7 @@
 <a href="https://bsky.app/profile/thebimsider.bsky.social" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" alt="thebimsider" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cstorms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cstorms" height="30" width="40" /></a>
 <a href="https://instagram.com/thebimsider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thebimsider" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/thebimsider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thebimsider" height="30" width="40" /></a>
+<a href="https://www.youtube.com/user/theBIMsider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thebimsider" height="30" width="40" /></a>
 </p>
 
 ### Find all the Links 👉 [**HERE**](https://bio.link/thebimsider)
