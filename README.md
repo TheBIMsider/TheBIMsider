@@ -3,7 +3,7 @@
 
 - 🏢 Technical Success Manager at Newforma, BIM Crusader, Coding, Low-Code & No-Code Novice, AI Curious, Blogger, Speaker, Podcaster, Autodesk Expert Elite, 25+ years in AECO
 
-- 🌱 I’m currently learning **JavaScript, CSS, HTML, C#, Python**
+- 🌱 I’m currently learning **JavaScript, CSS, HTML, C#, Python, PowerShell**
 
 - 🎵 I'm experimenting with **vibe coding**, finding my rhythm and flow in the code (with a little help from my AI friends 🤖)
 
