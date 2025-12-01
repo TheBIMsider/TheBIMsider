@@ -22,9 +22,4 @@
 
 ### Find all the Links 👉 [**HERE**](https://bio.link/thebimsider)
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thebimsider&show_icons=true&locale=en&layout=compact" alt="thebimsider" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thebimsider&show_icons=true&locale=en" alt="thebimsider" /></p>
-
 Thanks to [Rahul Jain](https://github.com/rahuldkjain/github-profile-readme-generator) for his cool GitHub Profile README Generator that did this!
