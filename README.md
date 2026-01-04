@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Carl aka the BIMsider</h1>
+<h1 align="center">Hi 👋, I'm Carl aka The BIMsider</h1>
 <h3 align="center">I'm an old dog trying to learn some new coding tricks</h3>
 
 - 🏢 BIM Crusader, Vibe Coder, AI Curious, Low & No-Code Tinkerer, Blogger, Speaker, Podcaster, Autodesk Expert Elite, 25+ years in AECO and Technical Success Manager at Newforma.
