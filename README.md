@@ -9,8 +9,6 @@
 
 - 📝 I regularly write articles on [The BIMsider](https://thebimsider.com/)
 
-- 🎙 I regularly host or co-host these Podcasts [Wrenches Gadgets & Hacks](https://bio.link/wghfeed), [BIMThoughs](https://www.youtube.com/channel/UCluEu87j8_lvtI5LSi_1VBg), [The BILT Academy Podcast](https://biltacademypodcast.buzzsprout.com/), [The Simply Complex Podcast](https://www.simplycomplex.org/podcast)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/theBIMsider" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="theBIMsider" height="30" width="40" /></a>
