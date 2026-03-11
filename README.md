@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carl aka The BIMsider</h1>
 <h3 align="center">I'm an old dog trying to learn some new coding tricks</h3>
 
-- 🏢 BIM Crusader Turned AECO Tech Explorer | Speaker | Vibe Coder | Autodesk Expert Elite | Technical Success Manager at Newforma | 25+ years in AECO
+- 🏢 BIM Crusader Turned AECO Tech Explorer | Vibe Coder | Speaker | Autodesk Expert Elite | Technical Success Manager at Newforma | 25+ years in AECO
 
 - 🌱 I’m currently learning **JavaScript, CSS, HTML, C#, Python, PowerShell**
 
