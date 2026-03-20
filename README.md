@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, CSS, HTML, C#, Python, PowerShell**
 
-- 🎵 I'm experimenting with **vibe coding**, finding my rhythm and flow in the code (with a little, ok a lot of help from my AI friends 🤖)
+- 🎵 I'm experimenting with **vibe coding** treating AI as a digital power tool where I still 'measure twice' so I only have to 'cut' once (with a lot of help from my AI friends 🤖)
 
 - 📝 I regularly write articles on [The BIMsider](https://thebimsider.com/)
 
