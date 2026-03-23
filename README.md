@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Carl aka The BIMsider</h1>
 <h3 align="center">I'm an old dog trying to learn some new coding tricks</h3>
 
-- 🏢 BIM Crusader Turned AECO Tech Explorer | Vibe Coder | Speaker | Autodesk Expert Elite | Technical Success Manager at Newforma | 25+ years in AECO
+- 🏢 BIM Crusader Turned AECO Tech Explorer | AI Assisted Coder | Speaker | Autodesk Expert Elite | Technical Success Manager at Newforma | 25+ years in AECO
 
 - 🌱 I’m currently learning **JavaScript, CSS, HTML, C#, Python, PowerShell**
 
-- 🎵 I'm experimenting with **vibe coding**: treating AI as a digital power tool where I still "measure twice" so I only have to cut once (with a lot of help from my AI friends 🤖)
+- 🎵 I'm experimenting with **AI Assisted Coding**: treating AI as a digital power tool where I still "measure twice" so I only have to cut once (with a lot of help from my AI friends 🤖)
 
 - 📝 I regularly write articles on [The BIMsider](https://thebimsider.com/)
 
