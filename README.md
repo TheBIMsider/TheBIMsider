@@ -12,11 +12,11 @@
 <h3 align="left">Connect with me:</h3>
 <table>
   <tr>
-    <td><a href="https://x.com/theBIMsider" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" width="30" height="30" style="border-radius:0;" /></a></td>
-    <td><a href="https://bsky.app/profile/thebimsider.bsky.social" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" width="30" height="30" style="border-radius:0;" /></a></td>
-    <td><a href="https://linkedin.com/in/cstorms" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30" style="border-radius:0;" /></a></td>
-    <td><a href="https://instagram.com/thebimsider" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" height="30" style="border-radius:0;" /></a></td>
-    <td><a href="https://www.youtube.com/user/theBIMsider" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="30" height="30" style="border-radius:0;" /></a></td>
+    <td style="padding:0;"><a href="https://x.com/theBIMsider" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" width="30" /></a></td>
+    <td style="padding:0;"><a href="https://bsky.app/profile/thebimsider.bsky.social" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" width="30" /></a></td>
+    <td style="padding:0;"><a href="https://linkedin.com/in/cstorms" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" /></a></td>
+    <td style="padding:0;"><a href="https://instagram.com/thebimsider" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" /></a></td>
+    <td style="padding:0;"><a href="https://www.youtube.com/user/theBIMsider" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="30" /></a></td>
   </tr>
 </table>
 
