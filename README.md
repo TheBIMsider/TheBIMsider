@@ -11,21 +11,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://x.com/theBIMsider" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="theBIMsider on X" width="30" height="30" />
-  </a>
-  <a href="https://bsky.app/profile/thebimsider.bsky.social" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" alt="thebimsider on Bluesky" width="30" height="30" />
-  </a>
-  <a href="https://linkedin.com/in/cstorms" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cstorms on LinkedIn" width="30" height="30" />
-  </a>
-  <a href="https://instagram.com/thebimsider" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thebimsider on Instagram" width="30" height="30" />
-  </a>
-  <a href="https://www.youtube.com/user/theBIMsider" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thebimsider on YouTube" width="30" height="30" />
-  </a>
+  <a href="https://x.com/theBIMsider" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="X" width="30" height="30" /></a>&nbsp;
+  <a href="https://bsky.app/profile/thebimsider.bsky.social" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" alt="Bluesky" width="30" height="30" /></a>&nbsp;
+  <a href="https://linkedin.com/in/cstorms" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" /></a>&nbsp;
+  <a href="https://instagram.com/thebimsider" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30" /></a>&nbsp;
+  <a href="https://www.youtube.com/user/theBIMsider" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="30" height="30" /></a>
 </p>
 
 ### Find all the Links 👉 [**HERE**](https://bio.link/thebimsider)
