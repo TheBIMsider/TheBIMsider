@@ -3,7 +3,7 @@
 
 - 🏢 BIM Crusader Turned AECO Tech Explorer | AI-Assisted Coder | Speaker | Autodesk Expert Elite | Technical Success Manager at Newforma | 25+ years in AECO
 
-- 🌱 I’m currently learning **React, TypeScript, JavaScript, CSS, HTML, PowerShell, C#, Python,**
+- 🌱 I’m currently learning and AI coding with **React, TypeScript, JavaScript, CSS, HTML, PowerShell, C#, Python,**
 
 - 🎵 I'm experimenting with **AI-Assisted Coding**: treating AI as a digital power tool where I still "measure twice" so I only have to cut once (with a lot of help from my AI friends 🤖)
 
