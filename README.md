@@ -20,6 +20,6 @@
   </tr>
 </table>
 
-### Find all the Links 👉 [**HERE**](https://bio.link/thebimsider)
+### Find all the Links 👉 [**HERE**](https://thebimsider.com/links/)
 
 Thanks to [Rahul Jain](https://github.com/rahuldkjain/github-profile-readme-generator) for his cool GitHub Profile README Generator that did this!
